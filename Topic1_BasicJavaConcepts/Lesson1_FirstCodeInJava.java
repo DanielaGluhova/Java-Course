@@ -1,4 +1,6 @@
 package Topic1_BasicJavaConcepts;
+// Java е:
+//Simple, Object oriented, Distributed, Multithreaded, Dynamic, Architecture neutral, Portable, High performance, Robust, Secure
 
 // История - Java е създаден през 1995 г. от Sun Microsystems чрез екипа на James Gosling.
 // По-късно е закупен от Oracle.
