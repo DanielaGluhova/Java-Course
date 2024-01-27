@@ -1,13 +1,5 @@
 package Topic1_BasicJavaConcepts;
 
-// Четлив език е защото е нужно кода да бъде прочитан и изпълняван
-// ред по ред. 
-// Поддържан език е защото се обновява на всеки 6 месеца.
-// WORA() - Write Once, Run Anywhere (на всяко устройство и всяка ОС) 
-// Collection API - Java API е библиотека която съдържа готов код за работа с колекции
-//  например Arrays, Lists, Maps, Sets, etc.
-// Exception handling - обработка на грешки.
-
 // История - Java е създаден през 1995 г. от Sun Microsystems чрез екипа на James Gosling.
 // По-късно е закупен от Oracle.
 
